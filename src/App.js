@@ -22,6 +22,7 @@ const App = () => {
         searchMovies("Dance");
     }, []);
 
+    console.log(movies)
 
     return (
         <div className="app">
