@@ -2,7 +2,7 @@
 
 ## [Live Demo](https://movie-land-onionpowder01.netlify.app/)
 
-![image](https://user-images.githubusercontent.com/106592392/214273218-919a78ba-ce5f-4040-acfb-3d3647af2bac.png
+![image](https://user-images.githubusercontent.com/106592392/214273218-919a78ba-ce5f-4040-acfb-3d3647af2bac.png)
 
 Small Movie Library app making a call to the omdbpapi 
 
