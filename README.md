@@ -2,9 +2,9 @@
 
 ## [Live Demo](https://movie-land-onionpowder01.netlify.app/)
 
-![image](https://user-images.githubusercontent.com/106592392/214273218-919a78ba-ce5f-4040-acfb-3d3647af2bac.png)
+React.js small movie library app making an api call to OMDB API to search and display movies. Users can search for movies by title and the app will display a list of matching results.
 
-Small Movie Library app making a call to the omdbpapi 
+![image](https://user-images.githubusercontent.com/106592392/214273218-919a78ba-ce5f-4040-acfb-3d3647af2bac.png)
 
 ### Technologies Used
 
